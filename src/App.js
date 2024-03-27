@@ -5,7 +5,8 @@
 // import Imga from './Componets/Img';
 // import Order from './Componets/Orderlist';
 // import Apps from './Componets/tailwind'; 
-import App2  from './Componets/task1';
+
+import ComA from "./ComA";
 
 
 function App() {
@@ -20,7 +21,8 @@ function App() {
      <Imga/>
      <Order/>
      <Apps/> */}
-     <App2/>
+
+<ComA/>
     </div>
   );          
 }
