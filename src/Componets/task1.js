@@ -15,7 +15,7 @@ function App2() {
 
   return (
     <>
-      <img src="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjQ4MS1iYi1uaW5nLTEyYl8xLmpwZw.jpg" className="m-auto p-auto mt-6 rotator-fade text-primary"></img>
+      <img src="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjQ4MS1iYi1uaW5nLTEyYl8xLmpwZw.jpg" className="m-auto p-auto mt-6"></img>
       <h1 className="text-4xl text-center absolute top-[180px] left-[350px]">Hello :Good {timeOfDay}!</h1>
     </>
   )
